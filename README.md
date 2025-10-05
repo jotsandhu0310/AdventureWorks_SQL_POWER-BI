@@ -44,10 +44,5 @@ The goal is to provide actionable insights from raw data through a dynamic and v
 
 ---
 
-## Datasets
-All datasets used in this project are included in the `Datasets/` folder.  
--Main data used for analysis.
 
----
 
-## Repository Structure
